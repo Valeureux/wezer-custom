@@ -37,6 +37,7 @@ Website Marketplace
         'website_base_community'
     ],
     'data': [
+        'views/assets.xml',
         'views/templates/edit_announcement.xml',
         'views/templates/new_announcement.xml',
     ],

@@ -1,0 +1,11 @@
+
+.custom-nav     {
+    background-color: #CFDEF1;
+    border-color: #E7E7E7; }
+
+.hide-option {
+    text-indent: -9999px;
+    background-color: transparent;
+    border-color: transparent;
+    color:transparent;
+    box-shadow: 0px 0px 0px;}

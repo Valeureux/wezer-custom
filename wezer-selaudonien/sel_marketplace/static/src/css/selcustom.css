@@ -28,3 +28,8 @@
    /* background-color: #71ab3f; */
     background-color: #CFDEF1;
 }
+
+
+footer {
+    background: rgba(206, 221, 240, 0.40) none repeat scroll 0% 0% !important;
+}
